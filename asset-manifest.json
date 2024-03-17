@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.721add9f.css",
-    "main.js": "/portfolio-react/static/js/main.ca6d6f74.js",
-    "static/media/projectBackground.png": "/portfolio-react/static/media/projectBackground.2a1a2f34db92cd6df1e4.png",
-    "static/media/projectMain.png": "/portfolio-react/static/media/projectMain.bb37db3bfd2dfd1bc6ef.png",
-    "static/media/DigitalArt.jpeg": "/portfolio-react/static/media/DigitalArt.1ba83a1ad1e5f49fd695.jpeg",
-    "static/media/DigitalArt2.jpg": "/portfolio-react/static/media/DigitalArt2.208c07a5c96bae970fff.jpg",
-    "static/media/minicard1.gif": "/portfolio-react/static/media/minicard1.fdc99e86a33c1bc22f56.gif",
-    "static/media/projectWebDev.png": "/portfolio-react/static/media/projectWebDev.4b034a6f88752977f657.png",
-    "static/media/projectML.jpeg": "/portfolio-react/static/media/projectML.86367056bf42c078dddc.jpeg",
-    "static/media/projectDS.webp": "/portfolio-react/static/media/projectDS.6f387395264f8fc0c7cd.webp",
-    "index.html": "/portfolio-react/index.html",
-    "main.721add9f.css.map": "/portfolio-react/static/css/main.721add9f.css.map",
-    "main.ca6d6f74.js.map": "/portfolio-react/static/js/main.ca6d6f74.js.map"
+    "main.css": "/static/css/main.721add9f.css",
+    "main.js": "/static/js/main.eea44827.js",
+    "static/media/projectBackground.png": "/static/media/projectBackground.2a1a2f34db92cd6df1e4.png",
+    "static/media/projectMain.png": "/static/media/projectMain.bb37db3bfd2dfd1bc6ef.png",
+    "static/media/DigitalArt.jpeg": "/static/media/DigitalArt.1ba83a1ad1e5f49fd695.jpeg",
+    "static/media/DigitalArt2.jpg": "/static/media/DigitalArt2.208c07a5c96bae970fff.jpg",
+    "static/media/minicard1.gif": "/static/media/minicard1.fdc99e86a33c1bc22f56.gif",
+    "static/media/projectWebDev.png": "/static/media/projectWebDev.4b034a6f88752977f657.png",
+    "static/media/projectML.jpeg": "/static/media/projectML.86367056bf42c078dddc.jpeg",
+    "static/media/projectDS.webp": "/static/media/projectDS.6f387395264f8fc0c7cd.webp",
+    "index.html": "/index.html",
+    "main.721add9f.css.map": "/static/css/main.721add9f.css.map",
+    "main.eea44827.js.map": "/static/js/main.eea44827.js.map"
   },
   "entrypoints": [
     "static/css/main.721add9f.css",
-    "static/js/main.ca6d6f74.js"
+    "static/js/main.eea44827.js"
   ]
 }

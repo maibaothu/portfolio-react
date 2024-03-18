@@ -3,8 +3,6 @@ import Miniproject from "./Miniproject"
 import Workdata from "./Workdata"
 
 import React from 'react'
-import card1 from "../assets/minicard1.gif"
-import { NavLink } from "react-router-dom"
 
 const Work = () => {
   return (

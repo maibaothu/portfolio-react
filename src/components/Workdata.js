@@ -6,7 +6,7 @@ const ProjectCardData = [
     {
         imgsrc: card1,
         title: "Localized Schedule Planner",
-        text: "A localized schedule planner for students to extract data from Canvas API token and integrate into the planner that distinguishes categorical events and utilizes JSON for streamlined data handling, esigns for responsive user experiences on multiple screen types,  testing with Puppeteer that addressing edge cases, ensuring 90% functionality accuracy ",
+        text: "A localized schedule planner for students to extract data from Canvas API token and integrate into the planner that distinguishes categorical events and utilizes JSON for streamlined data handling, designs for responsive user experiences on multiple screen types, testing with Puppeteer that addressing edge cases, resulting in a 30% reduction in testing and ensuring 90% functionality accuracy",
         view: "https://www.youtube.com/watch?v=_mwt6euJh20",
         source: "https://github.com/cse110-fa22-group38/cse110-fa22-group38"
     },
